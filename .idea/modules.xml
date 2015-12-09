@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android_Animation - copia.iml" filepath="$PROJECT_DIR$/android_Animation - copia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animacion_api/animacion_api.iml" filepath="$PROJECT_DIR$/animacion_api/animacion_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
